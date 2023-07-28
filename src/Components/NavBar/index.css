@@ -1,0 +1,18 @@
+.navbar-container {
+  background-color: #dbeafe;
+  max-height: 6vh;
+  padding: 22px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 60px;
+}
+
+.nav-heading {
+  font-family: 'Bree Serif';
+  font-size: 28px;
+  font-weight: lighter;
+  margin-left: 10px;
+}
